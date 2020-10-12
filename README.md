@@ -1,6 +1,7 @@
 # Metals & Mining - Natural Language Processing Dashboard
 
 > utils.config and utils.db_toolbox functions <b><u>are not</u></b> provided!
+> Unoptimised and computationally heavy.
 
 Built for a data visualisation web application using Python, SpaCy natural language processing and Plotly Dash.
 
