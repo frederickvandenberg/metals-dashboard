@@ -26,6 +26,6 @@ Descriptive statistics
 
 Identifying location, syntax usage, n-grams, and NER classified by sentiment and metal type.
 
-![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/main/blob/images/nlp_dashboard.png)
+![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/main/images/nlp_dashboard.png)
 
 
