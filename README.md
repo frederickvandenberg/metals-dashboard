@@ -10,6 +10,9 @@ Identifying correlation between price, sentiment and frequency for various metal
 
 ![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/main/nlp_dashboard_timeseries.png)
 
+![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/main/nlp_dashboard_timeseries2.png)
+
+
 ### Time series analysis
 
 Identifying location, syntax usage, n-grams, and name entity recognition classified by sentiment and metal type.
