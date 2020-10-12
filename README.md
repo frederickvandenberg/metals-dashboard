@@ -16,6 +16,7 @@ Identifying correlation between price, sentiment and frequency for various metal
 
 ![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/main/nlp_dashboard_timeseries.png)
 
+Descriptive statistics
 ![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/main/nlp_dashboard_timeseries2.png)
 
 
