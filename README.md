@@ -6,8 +6,7 @@
 
 Todo:
  1. Create classes, reduce repeated code.
- 2. Optimise SQL queries, pre-load some data(?).
- 3. Optimise SpaCy NLP functions.
+ 2. Optimise SpaCy NLP functions and querying (pre-load data?).
 
 Built for a data visualisation web application using Python, SpaCy natural language processing and Plotly Dash.
 
