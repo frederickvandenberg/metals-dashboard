@@ -2,7 +2,12 @@
 
 > utils.config and utils.db_toolbox functions <b><u>are not</u></b> provided!
 
-> Unoptimised and computationally heavy.
+> Proto-type, unoptimised and computationally heavy.
+
+Todo:
+ 1. Create classes, reduce repeated code.
+ 2. Optimise SQL queries, pre-load some data(?).
+ 3. Optimise SpaCy NLP functions.
 
 Built for a data visualisation web application using Python, SpaCy natural language processing and Plotly Dash.
 
