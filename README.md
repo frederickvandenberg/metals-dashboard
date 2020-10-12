@@ -16,16 +16,16 @@ Built for a data visualisation web application using Python, SpaCy natural langu
 
 Identifying correlation between price, sentiment and frequency for various metals.
 
-![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/images/nlp_dashboard_timeseries.png)
+![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/main/images/nlp_dashboard_timeseries.png)
 
 Descriptive statistics
-![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/images/nlp_dashboard_timeseries2.png)
+![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/main/images/nlp_dashboard_timeseries2.png)
 
 
 ### Natural Language analysis
 
 Identifying location, syntax usage, n-grams, and NER classified by sentiment and metal type.
 
-![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/blob/images/nlp_dashboard.png)
+![Opps, Not found!](https://github.com/frederickvandenberg/nlp-dashboard/main/blob/images/nlp_dashboard.png)
 
 
