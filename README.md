@@ -2,7 +2,7 @@
 
 > utils.config and utils.db_toolbox functions <b><u>are not</u></b> provided!
 
-> Proto-type, unoptimised and computationally heavy.
+> Proto-type, unoptimised.
 
 Todo:
  1. Create classes, reduce repeated code.
